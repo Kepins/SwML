@@ -1,0 +1,17 @@
+venv/
+.ipynb_checkpoints/
+
+# directories with images
+original/
+augmented/
+preprocessed/
+SPLIT_1/
+SPLIT_2/
+SPLIT_3/
+
+# keras models
+*.keras
+
+# plots
+*.png
+
